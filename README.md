@@ -41,21 +41,10 @@ Obtiene el detalle de un personaje por su ID.
 
 ---
 
-## Estructura del proyecto:
-
-src/
- └── main/
-     └── java/
-         └── com/ejemplo/
-             ├── controller/
-             ├── service/
-             └── model/
-
----
-
 ## Notas
 
 El backend actúa como proxy entre el frontend y la API pública, transformando y simplificando la data.
+
 Se implementó lógica para recorrer todas las páginas en búsquedas por nombre.
 
 ---
@@ -63,4 +52,3 @@ Se implementó lógica para recorrer todas las páginas en búsquedas por nombre
 ## Autor
 Rael Rivero Espinoza
 
----
