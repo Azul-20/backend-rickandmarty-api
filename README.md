@@ -30,7 +30,7 @@ Obtiene el detalle de un personaje por su ID.
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/backend-yobel-prueba.git
+   git clone https://github.com/Azul-20/backend-rickandmarty-api.git
 2. Importar el proyecto en un IDE compatible (IntelliJ / Eclipse / VS Code).
 3. Ejecutar la clase principal:
    ```bash
